@@ -1,6 +1,6 @@
 # :guitar: Guitar standard tuning
 
-Salut les élèves! Voici le playback pour vérifier votre accordage, tous en même temps, lors des répétitions d'orchestre guitare...
+Salut les élèves ! Voici les playbacks pour vérifier votre accordage, tous en même temps, lors des répétitions d'orchestre guitare...
 
 Bonne musique et bonne guitare ! :musical_score: :headphones: :musical_note: :notes:
 
